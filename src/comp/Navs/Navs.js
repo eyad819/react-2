@@ -19,9 +19,7 @@ const Navs = () => {
             <Nav.Link href="#explore">Explore Foods</Nav.Link>
             <Nav.Link href="#reviews">Reviews</Nav.Link>
             <Nav.Link href="#faq">FAQ</Nav.Link>
-            <Nav.Link href="">signin</Nav.Link>
-            <Nav.Link to='signinup' href="signinup">signup</Nav.Link>
-          
+      
           </Nav>
           <Nav>
             <Nav.Link id="last-nav">185 239 558</Nav.Link>
